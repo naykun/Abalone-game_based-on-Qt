@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/new/BackgroundPic">
+        <file>bg.jpg</file>
+        <file>bg2.jpg</file>
+        <file>bg3.jpg</file>
+        <file>bg4.jpg</file>
+    </qresource>
+    <qresource prefix="/new/chessBoard">
+        <file>chessBoard.png</file>
+        <file>chessBoard2.png</file>
+        <file>chessBoard2_noshadow.png</file>
+        <file>chessBoard3.png</file>
+    </qresource>
+    <qresource prefix="/new/Pieces">
+        <file>black_ball.png</file>
+        <file>white_ball.png</file>
+        <file>black_ball_Fslc.png</file>
+        <file>black_ball_slc.png</file>
+        <file>white_ball_Fslc.png</file>
+        <file>white_ball_slc.png</file>
+        <file>white_ball_Fslc3.png</file>
+        <file>white_ball_Flc2.png</file>
+    </qresource>
+</RCC>
